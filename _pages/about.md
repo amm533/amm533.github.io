@@ -13,7 +13,7 @@ Furthermore, I am graduated from the Computer Engineering degree of the Universi
 
 Research Interests
 ======
-My first research has focused on the detection and mitigation of biases in language models. More specifically,
+My first research work has focused on the detection and mitigation of biases in language models. More specifically,
 my work is oriented at reducing the gap in gender bias mitigation in word embeddings between English and
 morphologically rich languages as Spanish.
 
