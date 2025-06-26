@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="files/CV.pdf" class="image fit"><img src="images/bio-photo.jpg" alt=""></a>
+<object data="files/CV.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 Education
 ======
