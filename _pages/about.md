@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aitana Morote's homepage"
+title: "Aitana Morote Martínez's homepage"
 author_profile: true
 redirect_from: 
   - /about/
