@@ -2,7 +2,7 @@
 title: "Preserving Grammatical Gender when Debiasing Word Embeddings in Spanish"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-01-01-paper-gender-1
+permalink: /publication/inlpGram-paper
 excerpt: 'In this paper, we propose INLP-Gram, an algorithm designed to mitigate gender bias in Spanish word embeddings while preserving grammatical gender information. It is an adaptation of the Iterative Nullspace Projection (INLP).'
 venue: 'Accepted for publication in Issue No. 75 of the SEPLN journal and for presentation at the XLI International SEPLN Conference, 2025.'
 ---
