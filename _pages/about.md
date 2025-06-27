@@ -13,14 +13,11 @@ Furthermore, I am graduated from the Computer Engineering degree of the Universi
 
 Research Interests
 ======
-My first research work has focused on the detection and mitigation of biases in language models. More specifically,
-my work is oriented at reducing the gap in gender bias mitigation in word embeddings between English and
-morphologically rich languages as Spanish.
+My first research work has focused on the detection and mitigation of biases in language models. More specifically, my work is oriented at reducing the gap in gender bias mitigation in word embeddings between English and morphologically rich languages as Spanish.
 
-In addition, I recently started working on the research line of quantum computing, which is gaining widespread
-attention as quantum infrastructure is becoming available for scientific research. This technology has a great
-potential in many fields, such as Natural Language Processing. I particularly focused on the formulation of In-
-stance Selection (IS) and clustering problems as Quadratic unconstrained binary optimization (QUBO) problems.
-Our research group will further develop this line into Natural Language Generation and Text Summarization
-applications.
+In addition, I recently started working on the research line of quantum computing, which is gaining widespread attention as quantum infrastructure is becoming available for scientific research. This technology has a great potential in many fields, such as Natural Language Processing. I particularly focused on the formulation of In- stance Selection (IS) and clustering problems as Quadratic unconstrained binary optimization (QUBO) problems. Our research group will further develop this line into Natural Language Generation and Text Summarization applications.
+
+Extracurricular Activities
+======
+Additionaly, I am pursuing professional contemporary dance studies at the Professional Conservatory of Alicante José Espadero. This training gives me access to a new artistic environment, where music plays a very important role. I was selected as a dancer for the conservatory dance company (ECCAD), where I had the chance to work with the choreographer Paula Serrano in the production of 'Tierra de Juana', a piece that has resulted from the research of the work of the painter Juana Francés. I had also the opportunity to present my own dance piece, for which I also personally composed the music, in the choreographic composition competition 'CompoCrea', which was awarded with a scholarship by the dance company 'Otradanza'.
 
