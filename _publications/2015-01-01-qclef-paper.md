@@ -4,7 +4,6 @@ collection: publications
 category: conferences
 permalink: /publication/2015-01-01-qclef-paper
 excerpt: 'Paper submitted at the Conference and Labs of the Evaluation Forum (CLEF 2025).'
-date: 2025
 venue: 'Conference and Labs of the Evaluation Forum (CLEF 2025)'
 paperurl: ''
 citation: ''
