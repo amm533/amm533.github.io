@@ -2,7 +2,7 @@
 title: "GPLSICORTEX at SemEval-2025 Task 10: Leveraging Intentions for Generating Narrative Extractions"
 collection: publications
 category: conferences
-permalink: /publication/2025-01-01-semeval-paper
+permalink: /publication/2015-01-01-semeval-paper
 excerpt: 'This paper will be presented in the 19th International Workshop on Semantic Evaluation.'
 date: 2025
 venue: 'GitHub Journal of Bugs'
