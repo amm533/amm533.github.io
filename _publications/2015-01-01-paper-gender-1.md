@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2015-01-01-paper-gender-1
 excerpt: 'In this paper, we propose INLP-Gram, an algorithm designed to mitigate gender bias in Spanish word embeddings while preserving grammatical gender information. It is an adaptation of the Iterative Nullspace Projection (INLP).'
-date: 2025
 venue: 'Accepted for publication in Issue No. 75 of the journal and for presentation at the XLI International SEPLN Conference.'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
