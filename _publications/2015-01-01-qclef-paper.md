@@ -2,7 +2,7 @@
 title: "Team GPLSI at QClef 2025: Quantum-Inspired Instance Selection and Clustering"
 collection: publications
 category: conferences
-permalink: /publication/2015-01-01-qclef-paper
+permalink: /publication/qclef-paper
 excerpt: 'This paper presents the participation of the GPLSI team in the Quantum CLEF (QClef) Lab at CLEF 2025, focusing on Task 2 - Instance Selection and Task 3 - Clustering.'
 venue: 'Paper submitted at the Conference and Labs of the Evaluation Forum (CLEF 2025).'
 ---
