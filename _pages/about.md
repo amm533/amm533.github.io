@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a senior technologist of the [Language and Information Systems Group (GPLSI)](https://gplsi.dlsi.ua.es/en/home/) at the [University of Alicante](https://www.ua.es/), currently collaborating on the [ALIA project](https://alia.gob.es/eng/) as a member of the [Digital Intelligence Center (CENID)](https://cenid.es/).
-In 2024, I graduated from the Computer Engineering degree of the University of Alicante. During my undergraduate studies, I also obtained a professional degree in Music at the Professional Conservatory ‘Vila de Sant Joan’, in the specialty of Violin. 
+I earned my Bachelor's degree in Computer Engineering from the University of Alicante in 2024 and am currently pursuing a Master's degree in Data Science. During my undergraduate studies, I also obtained a professional degree in Music at the Professional Conservatory ‘Vila de Sant Joan’, in the specialty of Violin. 
 
 Research Interests
 ======
@@ -18,5 +18,5 @@ In addition, I recently started working on the research line of quantum computin
 
 Extracurricular Activities
 ======
-Additionaly, I am pursuing professional contemporary dance studies at the Professional Conservatory of Alicante José Espadero. This training, where music plays a very important role, provides me with a perspective of Alicante's artistic scene. I was selected as a dancer for the conservatory dance company (ECCAD), where I had the chance to work with the choreographer [Paula Serrano](https://loop-barcelona.com/profile/paula-serrano/) in the production of [Tierra de Juana](https://www.teatroprincipaldealicante.com/obra/tierra-de-juana/), a piece that has resulted from months of research around the work of the painter Juana Francés. I had also the opportunity to present my own dance piece, for which I also personally composed the music, in the choreographic composition competition CompoCrea, which was awarded with a scholarship by the dance company Otradanza.
+Additionaly, I am pursuing professional contemporary dance studies at the Professional Conservatory of Alicante José Espadero. This training, where music plays a very important role, provides me with a perspective of Alicante's artistic scene.
 
